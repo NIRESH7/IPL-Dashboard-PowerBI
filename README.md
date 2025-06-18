@@ -49,7 +49,7 @@ Player Comparison and Trends Over the Years
 
 ---
 
-[View Power BI Report](https://app.powerbi.com/groups/me/reports/decc0015-ac1e-4411-8742-049fed2237d9?pbi_source=desktop)
+[View Power BI Report](https://app.powerbi.com/groups/me/reports/decc0015-ac1e-4411-8742-049fed2237d9/2b69bcd6a43301461798?experience=power-bi)
 
 
 ---
